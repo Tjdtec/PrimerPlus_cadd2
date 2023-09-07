@@ -1,0 +1,4 @@
+D:/Workspace/C++PrimerPlus/cmake-build-debug/CMakeFiles/C__PrimerPlus.dir
+D:/Workspace/C++PrimerPlus/cmake-build-debug/CMakeFiles/temp_source.dir
+D:/Workspace/C++PrimerPlus/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workspace/C++PrimerPlus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
